@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Praveen Maurya",
+    "age": "27",
+    "height": "162",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Prakash Maurya",
+    "age": "27",
+    "height": "170",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Kripa Maurya",
+    "age": "29",
+    "height": "160",
+    "gender": "female",
+    "hair_color": "blue"
+  },
+  {
+    "name": "Rama Maurya",
+    "age": "25",
+    "height": "162",
+    "gender": "male",
+    "hair_color": "Sliver"
+  }
+]
